@@ -18,7 +18,7 @@ npm install lootably-offers-api-types
 
 ## Usage
 
-For a complete list of available types, please refer to the [index.ts file](https://github.com/lootably/lootably-offers-api-types/blob/master/src/index.ts).
+For a complete list of available types, please refer to the [index.ts file](https://github.com/z2a-lootably/lootably-offers-api-types/blob/master/src/index.ts).
 
 You can import these types as needed in your TypeScript project. For example:
 
